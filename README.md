@@ -1,1 +1,3 @@
-# PizzaSales_Data_Analytics
+I'm excited to share my latest project where I dived deep into an Pizza sales dataset to extract valuable business insights. Through this project, I honed my data cleaning and transformation skills, ensuring the dataset was primed for analysis. Leveraging SQL, I queried the data to uncover key trends and patterns, and then visualized these insights using a comprehensive Power BI dashboard. The dashboard highlights sales performance, customer behavior, and product trends, providing actionable insights for business decisions.
+
+This project not only sharpened my technical skills in SQL and Power BI but also reinforced the importance of data-driven decision-making in today’s business landscape. I'm looking forward to applying these skills in real-world scenarios and continuing to grow in the field of data analytics.
